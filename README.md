@@ -2,7 +2,6 @@
 
 仓库：<https://github.com/HeypixeMinecraft/2b4t-shit-server>  
 审计版本：`1c3b80b4929efa36919fd4a113e1f487c1d8bd8e`  
-本地路径：`D:\codex\DickMod\2b4t-shit-server`
 
 ## 总结
 
